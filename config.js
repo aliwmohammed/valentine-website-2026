@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "wow two hot brunettes have united 🎉",
-        message: "who can stop us now",
+        message: "who can stop us now ?",
         emojis: "🎁💝❤️🌹"  // These will bounce around
     },
 
