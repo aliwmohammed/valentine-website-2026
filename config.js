@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['💖', '💝',],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -44,7 +44,7 @@ const CONFIG = {
     loveMessages: {
         extreme: " TABARNAK LETS GOOOOOOOO MOI AUSSI 🚀💝",  // Shows when they go past 5000%
         high: " AWAILLLEEEEEEEEEEE 🚀💝",              // Shows when they go past 1000%
-        normal: "ah ok juste 100% "                           // Shows when they go past 100%
+        normal: "ah ok juste ça"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
